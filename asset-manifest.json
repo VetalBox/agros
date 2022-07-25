@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38be36b0.css",
+    "main.js": "/static/js/main.bb56fce0.js",
+    "static/js/787.7ebdfcd6.chunk.js": "/static/js/787.7ebdfcd6.chunk.js",
+    "static/media/pole.jpg": "/static/media/pole.6aa88cce29dc8805ab3a.jpg",
+    "static/media/maki.jpg": "/static/media/maki.985f373877d300f12b1f.jpg",
+    "static/media/podsolnux.jpg": "/static/media/podsolnux.bf92e39d7ad6813ca159.jpg",
+    "static/media/lan.jpg": "/static/media/lan.0dbdd0f634548763db8d.jpg",
+    "static/media/kolosok.jpg": "/static/media/kolosok.64e5ad9b05626d4f44f6.jpg",
+    "static/media/wind.jpg": "/static/media/wind.5ec56965cdf0aa76df80.jpg",
+    "static/media/uborka.jpg": "/static/media/uborka.d260458da1136f8528c4.jpg",
+    "static/media/stog.jpg": "/static/media/stog.e49265e13c1660ca778b.jpg",
+    "static/media/psheno.jpg": "/static/media/psheno.8cd6e585afb9af16519f.jpg",
+    "static/media/sky.jpg": "/static/media/sky.80c78f5d82856a2c2cae.jpg",
+    "static/media/hand.jpg": "/static/media/hand.6468f05f19de187556ba.jpg",
+    "index.html": "/index.html",
+    "main.38be36b0.css.map": "/static/css/main.38be36b0.css.map",
+    "main.bb56fce0.js.map": "/static/js/main.bb56fce0.js.map",
+    "787.7ebdfcd6.chunk.js.map": "/static/js/787.7ebdfcd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38be36b0.css",
+    "static/js/main.bb56fce0.js"
+  ]
+}
